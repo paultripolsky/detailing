@@ -227,7 +227,7 @@
         width: 480px;
         height: 1500px;
         position: absolute;
-        z-index: 9999;
+        z-index: 99999;
         background: black;
         opacity: 0.5;
     }
